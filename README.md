@@ -1,6 +1,4 @@
-# Hi there, I'm Hristiyan Bobev! 👋
-
-### ✨ **Welcome to my GitHub profile!**
+## ✨ **Welcome to my GitHub profile!**
 
 I am a dedicated software developer with a keen interest in exploring new technologies, driven by a commitment to precision engineering and continuous learning. I am passionate about open-source projects and love sharing my knowledge while collaborating with other developers. I believe in the power of community and the importance of giving back to help others on their coding journey.
 
