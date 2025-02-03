@@ -25,6 +25,7 @@ I am a dedicated software developer with a keen interest in exploring new techno
 
 ### 🖥️ Backend Development  
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org/en/6.2.x/)
 [![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DB4F0B?style=for-the-badge&logo=python&logoColor=white)](https://www.sqlalchemy.org)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
