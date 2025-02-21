@@ -2,11 +2,11 @@
 
 Hi there! 👋
 
-I am a dedicated software developer with a keen interest in exploring new technologies, particularly in Machine Learning and Data Science, and driven by a commitment to precision engineering and continuous learning. I am passionate about open-source projects and love sharing my knowledge while collaborating with other developers. I believe in the power of community and the importance of giving back to help others on their coding journey.
+I am a dedicated software developer with a keen interest in exploring new technologies, driven by a commitment to precision engineering and continuous learning. I am passionate about open-source projects and love sharing my knowledge while collaborating with other developers. I believe in the power of community and the importance of giving back to help others on their coding journey.
 
 ## 🌟 Areas of Expertise and Interests
 
-- **Backend Web Development**: Crafting robust, scalable server-side applications and ensuring seamless integration with databases and APIs.
+- **Backend Web Development**: Crafting reliable and efficient server-side applications and ensuring seamless integration with databases and APIs.
 
 - **Exploring Machine Learning**: Building a solid foundation in model training, evaluation, and optimization, with a focus on learning the fundamentals of ML algorithms and techniques.
 
@@ -22,6 +22,7 @@ I am a dedicated software developer with a keen interest in exploring new techno
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)](https://matplotlib.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
 
 ### 🖥️ Backend Development  
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
